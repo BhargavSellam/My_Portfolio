@@ -5,25 +5,25 @@ import { Link } from 'react-router';
 
 const featuredProjects = [
   {
-    title: "E-Commerce Analytics Platform",
-    description: "A comprehensive dashboard for tracking sales, user engagement, and inventory management in real-time.",
-    tags: ["React", "TypeScript", "D3.js", "Node.js"],
-    image: "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWIlMjBhcHBsaWNhdGlvbiUyMGRhc2hib2FyZCUyMG1vYmlsZSUyMGFwcCUyMGludGVyZmFjZSUyMGVjb21tZXJjZSUyMHdlYnNpdGUlMjBkZXNpZ258ZW58MXx8fHwxNzcxNzY0NTEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    link: "#"
+    title: "Lumos LLM: A High-Inference, Multi-Theme AI Chatbot",
+    description: "High-speed Groq-powered LLM chatbot with an adaptive multi-theme interface.",
+    tags: ["Python", "Flask", "Groq API", "JavaScript"],
+    image: "https://www.nextiva.com/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/blog/wp-content/uploads/sites/10/2024/11/Chatbot-Call-Center.webp?resize=1024,576",
+    link: "https://github.com/BhargavSellam/LLM_Based_ChatBot"
   },
   {
-    title: "FinTech Mobile App",
-    description: "Secure and intuitive mobile banking application with biometric authentication and spending insights.",
-    tags: ["React Native", "Firebase", "Redux", "Tailwind"],
-    image: "https://images.unsplash.com/photo-1762340276397-db7ca4ee6ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBpbnRlcmZhY2UlMjBkYXJrJTIwbW9kZXxlbnwxfHx8fDE3NzE3NjQ1MTl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    link: "#"
+    title: "EduFlow: A TypeScript-Powered Learning Management Interface",
+    description: "Clean, responsive React and TypeScript landing page for educational organizations.",
+    tags: ["TypeScript", "JavaScript", "HTML", "CSS"],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6sa7aPlmgkAupUVSW1QxbnPsbGHTuhkAkg&s",
+    link: "https://github.com/BhargavSellam/ReactCerametiPage"
   },
   {
-    title: "Data Visualization Suite",
-    description: "Interactive data visualization library for rendering complex datasets with high performance.",
-    tags: ["WebGL", "Vue.js", "Python", "Flask"],
-    image: "https://images.unsplash.com/photo-1759661966728-4a02e3c6ed91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbiUyMGRhc2hib2FyZHxlbnwxfHx8fDE3NzE2OTkxMzd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    link: "#"
+    title: "A Command-Driven Django Voice Control System",
+    description: "Interactive voice command interface built with a robust Django backend.",
+    tags: ["Python", "Django", "JavaScript"],
+    image: "https://cdn.vectorstock.com/i/500p/25/60/voice-assistant-soundwave-concept-vector-39352560.jpg",
+    link: "https://github.com/BhargavSellam/Voice-Assistant-Django"
   }
 ];
 
